@@ -1,0 +1,24 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+/* 
+.myimage2{
+    border: 50px solid #0d6efd;
+} */
+
+.b-example-divider {
+    height: 3rem;
+    background-color: rgb(255 0 0 / 0%);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 0.5em 1.5em rgb(0 0 0 / 10%), inset 0 0.125em 0.5em rgb(0 0 0 / 15%);
+}
+
+/* .bgcolor{
+    background-color: #a10fd2;
+} */
+
+/* .arjunfb{
+    target:blank;
+} */
